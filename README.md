@@ -41,16 +41,6 @@ This project applies KMeans clustering on mall customer data to segment customer
 
 ---
 
-## 📸 Visualizations
-
-<p float="left">
-  <img src="visuals/clusters_plot.png" width="30%" />
-  <img src="visuals/radar_chart.png" width="30%" />
-  <img src="visuals/income_spending_dist.png" width="30%" />
-</p>
-
----
-
 ## 📦 How to Run
 
 1. Clone the repo  
